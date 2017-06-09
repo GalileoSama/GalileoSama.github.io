@@ -74,7 +74,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "帅，聪明"
-sidebar-avatar: /img/yogio.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/wuzui.png     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
